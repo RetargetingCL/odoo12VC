@@ -12,3 +12,8 @@
 	path = RetargetingCL/payroll_analytic_account
 	url = git@github.com:RetargetingCL/payroll_analytic_account.git
 	branch = vc_master
+
+[submodule "RetargetingCL/hr_payroll_cancel"]
+	path = RetargetingCL/hr_payroll_cancel
+	url = git@github.com:RetargetingCL/hr_payroll_cancel.git
+	branch = vc_master
