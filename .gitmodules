@@ -1,0 +1,4 @@
+[submodule "RetargetingCL/l10n_cl_hr"]
+	path = RetargetingCL/l10n_cl_hr
+	url = git@github.com:RetargetingCL/l10n_cl_hr.git
+	branch = vc_master
