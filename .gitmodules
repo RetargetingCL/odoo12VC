@@ -7,3 +7,8 @@
 	path = RetargetingCL/l10n_cl_hr_payroll_account
 	url = git@github.com:RetargetingCL/l10n_cl_hr_payroll_account.git
 	branch = vc_master
+
+[submodule "RetargetingCL/payroll_analytic_account"]
+	path = RetargetingCL/payroll_analytic_account
+	url = git@github.com:RetargetingCL/payroll_analytic_account.git
+	branch = vc_master
