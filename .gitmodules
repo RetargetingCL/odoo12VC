@@ -17,3 +17,8 @@
 	path = RetargetingCL/hr_payroll_cancel
 	url = git@github.com:RetargetingCL/hr_payroll_cancel.git
 	branch = vc_master
+
+[submodule "RetargetingCL/l10n_cl_hr_employee_extended"]
+	path = RetargetingCL/l10n_cl_hr_employee_extended
+	url = git@github.com:RetargetingCL/l10n_cl_hr_employee_extended.git
+	branch = vc_master
