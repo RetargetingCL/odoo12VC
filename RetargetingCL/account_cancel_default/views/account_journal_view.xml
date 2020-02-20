@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<openerp>
+    <data>
+   		<record id="view_account_journal_form_inherit" model="ir.ui.view">
+            <field name="name">view.account.journal.form.inherit</field>
+            <field name="model">account.journal</field>
+            <field name="inherit_id" ref="account_cancel.view_account_journal_form_inherit"/>
+            <field name="arch" type="xml">
+                <xpath expr="//field[@name='update_posted']" position="attributes">
+                    <attribute name="groups"></attribute>
+                </xpath>
+            </field>
+        </record>
+	</data>
+</openerp>
