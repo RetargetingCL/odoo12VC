@@ -251,7 +251,7 @@ class AccountInvoice(models.Model):
             string="Forma de pago",
             readonly=True,
             states={'draft': [('readonly', False)]},
-            default='1',
+            default='2',
         )
     contact_id = fields.Many2one(
             'res.partner',
